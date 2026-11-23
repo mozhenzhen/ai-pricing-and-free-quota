@@ -1,0 +1,37 @@
+name: Weekly Open Data Sync
+
+on:
+  schedule:
+    # Every Monday at 02:00 UTC (10:00 Beijing Time)
+    - cron: "0 2 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Sync public tables from mozhenzhen.com
+        run: python3 scripts/sync_public_data.py
+
+      - name: Commit updated tables if changed
+        run: |
+          if git diff --quiet data/; then
+            echo "No data changes detected."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/coding-plans.md data/free-ai-quotas.md
+          git commit -m "chore(data): weekly sync of public coding plans & free AI quotas"
+          git push
