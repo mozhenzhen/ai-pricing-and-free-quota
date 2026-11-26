@@ -13,13 +13,13 @@
 
 | 数据文件 | 包含内容 | 更新方式 | 模真真实时页面 |
 | --- | --- | --- | --- |
-| **[AI 编程套餐与 Token Plan 对比表](./data/coding-plans.md)** | 覆盖 49 家主流云厂商、官方会员与编程工具的 130+ 档个人在售套餐，按 **95% 缓存写代码场景** 统一折算月可用 Token 与官方按量等值倍数 | 每周一自动同步 | [套餐比价交互页](https://mozhenzhen.com/plans) |
-| **[官方免费 AI 额度与公益站清单](./data/free-ai-quotas.md)** | 近百项官方免费 AI 额度（每日刷新、每月刷新、新人首领、学生认证、免费 API）、付费会员额外签到福利，以及活跃社区公益站 | 每周一自动同步 | [每日领羊毛](https://mozhenzhen.com/wool) |
+| **[AI 编程套餐与 Token Plan 对比表](./data/coding-plans.md)** | 覆盖 43 家主流云厂商、官方会员与编程工具的 138 档个人在售套餐，按 **95% 缓存写代码场景** 统一折算月可用 Token 与官方按量等值倍数 | 每周一自动同步 | [套餐比价交互页](https://mozhenzhen.com/plans) |
+| **[官方免费 AI 额度与公益站清单](./data/free-ai-quotas.md)** | 99 项在架官方免费 AI 额度（每日刷新、每月刷新、新人首领、学生认证、免费 API）、35 项付费会员加赠福利，以及 58 家活跃社区公益站 | 每周一自动同步 | [每日领羊毛](https://mozhenzhen.com/wool) |
 | **[中转站模型验真方法与宏观统计](./data/verification-methodology.md)** | 基于 **8,902 份** 官方基准指纹验真公开报告（覆盖 **888 家** 中转站）的脱敏统计、热门型号近 30 天通过率与买前自查清单 | 定期更新 | [模型验真入口](https://mozhenzhen.com/verify) |
 
 ---
 
-## 核心速览（数据更新时间：2026-11-23）
+## 核心速览（数据更新时间：2026-11-26）
 
 ### 1. 选 AI 编程套餐，先看「缓存省不省钱」
 日常用 Claude Code、Codex、Cursor、Cline 等编程助手时，上下文重复命中率通常在 **90%–99%**。套餐读缓存打不打折，直接决定你花同样钱能干多少活：
@@ -27,12 +27,12 @@
 - **国内直买高折算梯队**：阿里·百炼 Token Plan（¥39–¥312/月，95% 缓存折算官方按量价 **5.1x–6.4x**，且每晚 22:00–次日 8:00 支持闲时 4–5 折）、MiniMax M Plan 中国版（¥49–¥469/月，**5.8x–7.3x**）、阶跃星辰 Step Plan（¥99–¥399/月，**10.9x–33.9x**）、智谱 GLM 官网（¥118–¥1,078/月，**4.0x–6.1x**）。
 - **海外官方会员与 IDE**：Claude Pro（$20/月）、ChatGPT Plus（$20/月）、Google AI Pro（$19.99/月）在官方限流窗口内折算按量倍数较高；Cursor、GitHub Copilot 等更侧重编辑器集成体验。
 
-完整 130+ 档明细见 [`data/coding-plans.md`](./data/coding-plans.md)，或直接打开 [mozhenzhen.com/plans](https://mozhenzhen.com/plans) 拖动滑杆自定义你的每月用量与缓存占比（0% / 50% / 95% / 99%）。
+完整 138 档明细见 [`data/coding-plans.md`](./data/coding-plans.md)，或直接打开 [mozhenzhen.com/plans](https://mozhenzhen.com/plans) 拖动滑杆自定义你的每月用量与缓存占比（0% / 50% / 95% / 99%）。
 
 ### 2. 值得收藏的官方免费 AI 额度
-截至 **2026-11-23**，模真真在架核实 **99 项官方免费 AI 额度**（其中 **48 项可直接调用免费 API**，83 项附带官网截图与箭头步骤指引），外加 **22 项付费会员隐藏加赠福利**：
-- **每日刷新免费 API**：Cloudflare Workers AI（每天 1 万算力点）、NVIDIA NIM（开发测试免费调用 Kimi / MiniMax / GLM / Mistral 等）、OpenRouter（免费模型每天 50 次，累计充值满 $10 后每天 1,000 次）、Groq（每天 1,000 次）、智谱 GLM Flash 免费系列、硅基流动免费模型、魔搭社区每日魔粒。
-- **按月刷新与高校学生福利**：Zed 学生计划（免一年 Pro + 每月 $10 额度）、Kiro 学生计划（每月 1,000 积分连送一年）、阿里云百炼学生礼包（¥300 抵扣金一年有效）、Tavily 搜索 API（每月 1,000 次）、蚂蚁百灵（每月 1 日自动发 ¥10 券）。
+截至 **2026-11-26**，模真真在架核实 **99 项官方免费 AI 额度**（其中 **48 项可直接调用免费 API**，81 项附带官网截图与步骤指引），外加 **35 项付费会员隐藏加赠福利** 与 **58 家活跃社区公益站**：
+- **每日刷新免费 API**：Cloudflare Workers AI（每天 1 万算力点）、NVIDIA NIM（开发测试免费调用 Kimi / MiniMax / GLM / Mistral 等）、OpenRouter（免费模型每天 50 次，累计充值满 $10 后每天 1,000 次）、Groq（每天 1,000 次）、智谱 GLM Flash 免费系列、硅基流动免费模型、魔搭社区每日魔粒、AMD Token Factory 免费额度。
+- **按月刷新与高校学生福利**：Kiro 学生计划（每月 1,000 积分连送一年）、阿里云百炼学生礼包（¥300 抵扣金一年有效）、Tavily 搜索 API（每月 1,000 次）、Rime 语音 API（每月 $50 额度）、樱花云 AI Engine（每月 3,000 次）、蚂蚁百灵（每月 1 日自动发 ¥10 券）。
 
 完整分类清单与官网直达链接见 [`data/free-ai-quotas.md`](./data/free-ai-quotas.md)。
 
@@ -46,15 +46,32 @@
 
 ---
 
-## 让你的 AI 助手直接查实时价格与验真（免登录）
+## 让你的 AI 助手直接查模真真（Skill + MCP · 免登录）
 
-除了本仓库的每周快照，开发者还可以直接在 AI 工具里读取模真真的只读公开接口（**无需注册、无需 API Key**）：
+除了本仓库的每周快照，你还可以直接让聊天 AI 或编程助手实时查模真真公开数据（**免注册、免登录、绝不索要 API Key**）。一键接入与在线试跑入口：**[mozhenzhen.com/ai-assistant](https://mozhenzhen.com/ai-assistant)**。
 
-1. **公开只读 MCP 服务（Streamable HTTP）**
+1. **通用技能文件（`SKILL.md`）**
+   - 官网直链：<https://mozhenzhen.com/SKILL.md>
+   - 独立 Skill 仓库：**[`mozhenzhen/mozhenzhen-skill`](https://github.com/mozhenzhen/mozhenzhen-skill)**
+   - 编程助手一键安装（Claude Code / Cursor / Codex 等）：
+     ```bash
+     npx skills add mozhenzhen/mozhenzhen-skill
+     ```
+     日常聊天 AI（ChatGPT / Kimi / 豆包 / Claude 等）直接下载或发送 `https://mozhenzhen.com/SKILL.md` 即可使用。
+2. **公开只读 MCP 服务（Streamable HTTP · 9 项公开能力）**
    - 接入地址：`https://mozhenzhen.com/api/mzz/mcp`
-   - 配置教程（支持 Claude Code / Cursor / Codex / Cherry Studio）：<https://mozhenzhen.com/mcp>
-   - 支持查中转站、查验真记录、查模型实付价、查今日官方免费额度、查订阅套餐 5 项工具。
-2. **纯文本 Markdown 伴生页（`.md`）**
+   - 接入教程与在线试跑（Claude Code / Cursor / Codex / Cherry Studio）：<https://mozhenzhen.com/ai-assistant>
+   - **已开放 9 项只读公开能力**：
+     - `search_providers` — **搜中转站**：按关键词、模型品牌、运营状态或最低验真通过率筛选公开中转站。
+     - `get_provider_detail` — **查单站档案**：查运营状态、已核实官网、代表模型实付报价、近 30 天验真统计、口碑与风险提示。
+     - `check_provider_verification` — **查验真记录**：核对公开验真通过率、身份不符次数与最近公开验真报告链接。
+     - `compare_model_prices` — **比模型实付价**：对比模型官方参考价与近 30 天验过真中转站的实付价、分组、渠道、缓存价与观察日期。
+     - `check_price_fairness` — **测我这家贵不贵**：对比你正在用的中转站现价与「近 30 天验过真最低价」「官方参考价」。
+     - `compare_subscription_plans` — **包月与编程套餐比价**：对比主流包月与编程套餐月费、可用额度、是否支持国内直购与包含模型。
+     - `list_daily_wool` — **每日免费额度**：查当前可领的官方免费额度与限时活动，含核实日期、截止时间与领取入口。
+     - `list_free_relays` — **免费公益站**：按关键词或开放注册状态查公开收录的免费公益站、可用模型与限额说明。
+     - `get_daily_updates` — **近几天降价与避雷动态**：汇总近 1–7 天中转站降价、验出身份不符与停运预警。
+3. **纯文本 Markdown 伴生页（`.md`）**
    - 站点导航：<https://mozhenzhen.com/llms.txt> 与 <https://mozhenzhen.com/llms-full.txt>
    - 支持直接读取 `.md` 路径获取干净数据：
      - 模型详情：`https://mozhenzhen.com/models/{slug}.md`（示例：[gpt-5-4-1.md](https://mozhenzhen.com/models/gpt-5-4-1.md)）

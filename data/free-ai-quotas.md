@@ -1,14 +1,14 @@
 # Verified Official Free AI Quotas & Community Free Relays
 # 官方免费 AI 额度与社区公益站实核清单
 
-> **Updated / 更新时间**: `2026-11-23 11:26 (UTC+8)`  
-> **Active Official Free Offers / 在架有效官方免费额度**: `99` items (`48` with free API access) + `22` paid-member extra perks  
-> **Active Community Free Relays / 活跃社区公益站**: `55` sites  
+> **Updated / 更新时间**: `2026-11-26 15:33 (UTC+8)`  
+> **Active Official Free Offers / 在架有效官方免费额度**: `99` items (`48` with free API access) + `35` paid-member extra perks  
+> **Active Community Free Relays / 活跃社区公益站**: `58` sites  
 > **Live Tracker with Screenshot Guides / 带官网截图指引的实时页面**: <https://mozhenzhen.com/wool>
 
 > **Verification Policy / 核实说明**: Every official entry links directly to the vendor's primary announcement or console page. Expired promotions are automatically filtered out on sync.
 
-## 1. Daily Refreshing Free Quotas / 每日刷新免费额度 (27)
+## 1. Daily Refreshing Free Quotas / 每日刷新免费额度 (28)
 
 | Vendor / 厂商 | Free Quota / 免费额度 | API? | Key Models & Conditions / 说明与条件 | Official Link / 官方入口 | Step-by-Step Guide / 领取指引 |
 | --- | --- | --- | --- | --- | --- |
@@ -39,8 +39,9 @@
 | **Google AI Studio** | 免费调用 | Yes / API | Gemini 4 Hydrogen 免费档可用于对话和写代码，限额在 AI Studio 查看 (Models: Gemini 4 Hydrogen) | [Official](https://aistudio.google.com/prompts/new_chat?model=gemini-4-hydrogen) | [Guide](https://mozhenzhen.com/wool/gemini-hydrogen-free) · [.md](https://mozhenzhen.com/wool/gemini-hydrogen-free.md) |
 | **WPS 灵犀** | ≈¥1.25 | Web/App | 每天签到领 100 智点，连续第 7 天起每天 200，按官方加量包折算 | [Official](https://www.lingxi.cn/) | [Guide](https://mozhenzhen.com/wool/wps-lingxi-daily) · [.md](https://mozhenzhen.com/wool/wps-lingxi-daily.md) |
 | **Together AI** | 免费调用 | Yes / API | 定价页将 Ternary Bonsai 27B 输入、缓存输入和输出均标为免费，注册建密钥即可调用 (Models: Ternary Bonsai 27B) | [Official](https://www.together.ai/pricing) | [Guide](https://mozhenzhen.com/wool/together-ai-ternary-bonsai-27b-free) · [.md](https://mozhenzhen.com/wool/together-ai-ternary-bonsai-27b-free.md) |
+| **Krea** | 100算力点 | Web/App | 免费账号每天送 100 算力点，免绑卡，可体验 Krea 3、Krea Agent 与实时生图模型。 | [Official](https://www.krea.ai/pricing) | [Guide](https://mozhenzhen.com/wool/krea-free-daily) · [.md](https://mozhenzhen.com/wool/krea-free-daily.md) |
 
-## 2. Monthly Refreshing Free Quotas & Student Grants / 每月刷新与学生认证额度 (23)
+## 2. Monthly Refreshing Free Quotas & Student Grants / 每月刷新与学生认证额度 (22)
 
 | Vendor / 厂商 | Free Quota / 免费额度 | API? | Key Models & Conditions / 说明与条件 | Official Link / 官方入口 | Step-by-Step Guide / 领取指引 |
 | --- | --- | --- | --- | --- | --- |
@@ -54,7 +55,6 @@
 | **书生·端砚** | 免费额度 | Yes / API | 测试期每月送科研模型调用额度，具体墨点数在账户里看 | [Official](https://discovery.intern-ai.org.cn/token-plan/home?tabIndex=1) | [Guide](https://mozhenzhen.com/wool/intern-inkstone-monthly) · [.md](https://mozhenzhen.com/wool/intern-inkstone-monthly.md) |
 | **ElevenLabs** | ≈¥13.33 | Web/App | 免费档每月 1 万积分，可做语音合成或转文字，按官方 Starter 月付所含积分折算 (Models: ElevenLabs 语音) | [Official](https://elevenlabs.io/app) | [Guide](https://mozhenzhen.com/wool/elevenlabs-monthly) · [.md](https://mozhenzhen.com/wool/elevenlabs-monthly.md) |
 | **WorkBuddy** | ≈¥25 | Web/App | 个人体验版每月 500 积分，可在客户端使用，按官方加量包折算 | [Official](https://www.workbuddy.cn/app) | [Guide](https://mozhenzhen.com/wool/workbuddy-monthly) · [.md](https://mozhenzhen.com/wool/workbuddy-monthly.md) |
-| **Zed 学生计划** | ≈¥66.66 | Web/App | 通过认证后免费用一年 Zed Pro，每月送 10 美元模型用量 | [Official](https://zed.dev/education) | [Guide](https://mozhenzhen.com/wool/zed-students-monthly) · [.md](https://mozhenzhen.com/wool/zed-students-monthly.md) |
 | **樱花云 AI Engine** | 3000次 | Yes / API | 每月免费调用文本生成接口 3000 次，各免费模型共用，次月自动刷新 (Models: gpt-oss-120b, GLM-5.3-Flash, DeepSeek-V4.1-Flash-1017) | [Official](https://ai.sakura.ad.jp/sakura-ai/ai-engine/) | [Guide](https://mozhenzhen.com/wool/sakura-ai-monthly) · [.md](https://mozhenzhen.com/wool/sakura-ai-monthly.md) |
 | **Tavily** | ≈¥53.33 | Yes / API | 免费档每月 1000 点，普通搜索每次 1 点，按官方按量价折算 | [Official](https://app.tavily.com/) | [Guide](https://mozhenzhen.com/wool/tavily-api-monthly) · [.md](https://mozhenzhen.com/wool/tavily-api-monthly.md) |
 | **腾讯云智能体开发平台** | ≈¥15 | Web/App | 实名主账号手动开通免费体验版，每月发 1.5 万资源点，按官方抵扣价折算 | [Official](https://console.cloud.tencent.com/adp) | [Guide](https://mozhenzhen.com/wool/tencent-adp-monthly) · [.md](https://mozhenzhen.com/wool/tencent-adp-monthly.md) |
@@ -68,12 +68,11 @@
 | **Netlify** | 300积分 | Yes / API | 免费套餐每月含 300 积分，模型调用、带宽和部署共用，用完后项目会暂停 | [Official](https://app.netlify.com/signup) | [Guide](https://mozhenzhen.com/wool/netlify-free-monthly-300-credits) · [.md](https://mozhenzhen.com/wool/netlify-free-monthly-300-credits.md) |
 | **Exa** | ≈¥66.78 | Yes / API | 首个团队每月 1 日自动重置 10 美元搜索和网页提取额度，最多约 2500 次 Lite 搜索，不结转 | [Official](https://dashboard.exa.ai/) | [Guide](https://mozhenzhen.com/wool/exa-api-monthly) · [.md](https://mozhenzhen.com/wool/exa-api-monthly.md) |
 
-## 3. New-User & One-Time Trial Credits / 新用户与一次性体验额度 (31)
+## 3. New-User & One-Time Trial Credits / 新用户与一次性体验额度 (32)
 
 | Vendor / 厂商 | Free Quota / 免费额度 | API? | Key Models & Conditions / 说明与条件 | Official Link / 官方入口 | Step-by-Step Guide / 领取指引 |
 | --- | --- | --- | --- | --- | --- |
-| **阿里云百炼** | ≈¥3.84 | Yes / API | 新开通各模型通常各送 100 万词元，90 天有效，按 qwen-max 八成输入、两成输出举例 (Models: Qwen 系列) | [Official](https://bailian.console.aliyun.com/) | [Guide](https://mozhenzhen.com/wool/bailian-new) · [.md](https://mozhenzhen.com/wool/bailian-new.md) |
-| **腾讯混元** | ≈¥0.8 | Yes / API | 首次开通旧版混元服务送 100 万词元，按 A13B 八成输入、两成输出举例 (Models: Hunyuan-A13B) | [Official](https://console.cloud.tencent.com/hunyuan) | [Guide](https://mozhenzhen.com/wool/hunyuan-new) · [.md](https://mozhenzhen.com/wool/hunyuan-new.md) |
+| **阿里云百炼** | ≈¥14 | Yes / API | 新开通各模型通常各送 100 万词元，90 天有效，按 qwen4-max 八成输入、两成输出举例 (Models: Qwen 系列) | [Official](https://bailian.console.aliyun.com/) | [Guide](https://mozhenzhen.com/wool/bailian-new) · [.md](https://mozhenzhen.com/wool/bailian-new.md) |
 | **Cerebras** | ≈¥33.33 | Yes / API | 新账号绑卡领 5 美元体验额度，30 天内用完，到期用量暂停 (Models: GPT-OSS 120B, Qwen3.8 27B) | [Official](https://cloud.cerebras.ai/) | [Guide](https://mozhenzhen.com/wool/cerebras-new) · [.md](https://mozhenzhen.com/wool/cerebras-new.md) |
 | **Qoder 国际版** | ≈¥26.66 | Web/App | 首次登录客户端送 14 天 Pro 试用和 300 积分，按官方资源包折算 | [Official](https://qoder.com/) | [Guide](https://mozhenzhen.com/wool/qoder-new) · [.md](https://mozhenzhen.com/wool/qoder-new.md) |
 | **秒悟** | 5000积分 | Web/App | 新账号首月送 5000 积分，可用来生成应用和图片 | [Official](https://www.meoo.com/) | [Guide](https://mozhenzhen.com/wool/meoo-new) · [.md](https://mozhenzhen.com/wool/meoo-new.md) |
@@ -84,9 +83,9 @@
 | **百度千帆** | ≈¥20 | Yes / API | 新注册并实名送 20 元平台代金券，有效期一个月 (Models: 文心系列) | [Official](https://console.bce.baidu.com/qianfan/) | [Guide](https://mozhenzhen.com/wool/baidu-qianfan-new) · [.md](https://mozhenzhen.com/wool/baidu-qianfan-new.md) |
 | **硅基流动** | ≈¥16 | Yes / API | 完成实名认证后，在活动中心手动领 16 元通用代金券 | [Official](https://cloud.siliconflow.cn/) | [Guide](https://mozhenzhen.com/wool/siliconflow-cn-verified) · [.md](https://mozhenzhen.com/wool/siliconflow-cn-verified.md) |
 | **阿里云百炼学生礼包** | ≈¥300 | Yes / API | 中国高校学生完成实名和学生认证，可领 300 元百炼抵扣金，领取起一年有效 (Models: Qwen 系列) | [Official](https://help.aliyun.com/zh/model-studio/introduction-to-yungongkaiwu) | [Guide](https://mozhenzhen.com/wool/alibaba-bailian-student) · [.md](https://mozhenzhen.com/wool/alibaba-bailian-student.md) |
-| **智谱 ZCode** | 800 万词元/天 | Web/App | 新用户连接智谱账号后，前 5 天每天送 800 万词元，体验期结束即失效 (Models: GLM 系列) | [Official](https://zcode.z.ai/cn/) | [Guide](https://mozhenzhen.com/wool/zcode-new) · [.md](https://mozhenzhen.com/wool/zcode-new.md) |
+| **智谱 ZCode** | 800 万词元/天 | Web/App | 新用户登录 ZCode 领 5 天体验套餐，每天送 GLM-5.4 300 万、GLM-5.3-Flash 500 万词元，期满失效 (Models: GLM-5.4, GLM-5.3-Flash) | [Official](https://zcode.z.ai/cn/) | [Guide](https://mozhenzhen.com/wool/zcode-new) · [.md](https://mozhenzhen.com/wool/zcode-new.md) |
 | **OVHcloud** | ≈¥1333.22 | Yes / API | 首次创建公有云项目送 200 美元，激活后一个月可用于 AI 开发和部署 | [Official](https://www.ovhcloud.com/en/public-cloud/free-trial/) | [Guide](https://mozhenzhen.com/wool/hinference-ovhcloud-new) · [.md](https://mozhenzhen.com/wool/hinference-ovhcloud-new.md) |
-| **Simular Box** | ≈¥33.33 | Web/App | 新账号送 5000 积分（5 美元），约可用 50 小时云桌面，90 天有效 | [Official](https://box.simular.ai/sign-in) | [Guide](https://mozhenzhen.com/wool/simular-box-new) · [.md](https://mozhenzhen.com/wool/simular-box-new.md) |
+| **Simular Box** | ≈¥33.33 | Web/App | 新账号送 5000 积分（5 美元），约可用 25 小时云桌面，90 天有效 | [Official](https://box.simular.ai/sign-in) | [Guide](https://mozhenzhen.com/wool/simular-box-new) · [.md](https://mozhenzhen.com/wool/simular-box-new.md) |
 | **讯飞 AStudio** | ≈¥10 | Web/App | 下载安装并首次登录可领 1000 积分，3 个月内可用，按官方积分增购价折算 | [Official](https://agent.xfyun.cn/) | [Guide](https://mozhenzhen.com/wool/xfyun-astudio-new) · [.md](https://mozhenzhen.com/wool/xfyun-astudio-new.md) |
 | **Kiro** | ≈¥133.32 | Web/App | 首次升级 Pro 送 500 积分，一年内可用，当月剩余时间免订阅费，次月开始计费 (Models: Claude 系列, GPT-5.6, Grok 4.7, Kimi K3) | [Official](https://kiro.dev/pricing/) | [Guide](https://mozhenzhen.com/wool/kiro-pro-first-upgrade) · [.md](https://mozhenzhen.com/wool/kiro-pro-first-upgrade.md) |
 | **电信星辰智能体** | 3000积分 | Web/App | 新注册自动送 3000 积分，三个月有效，可用来做办公任务 | [Official](https://agent.teleai.com.cn/meter/teleagent/user/portal/invite-download) | [Guide](https://mozhenzhen.com/wool/teleagent-new) · [.md](https://mozhenzhen.com/wool/teleagent-new.md) |
@@ -103,18 +102,19 @@
 | **Fireworks AI** | ≈¥6.67 | Yes / API | 新账号送 1 美元体验额度，可调用开源模型推理接口，未绑卡限每分钟 10 次请求，用完暂停 (Models: DeepSeek V4.1 Flash, GLM 5.3 Flash, Kimi K3.1 Pro, Qwen 3.8 Max) | [Official](https://app.fireworks.ai/signup) | [Guide](https://mozhenzhen.com/wool/fireworks-ai-new) · [.md](https://mozhenzhen.com/wool/fireworks-ai-new.md) |
 | **AWS Quick** | ≈¥166.65 | Web/App | 新账号免绑卡领 30 天 Plus 试用（按月标价 25 美元），10 倍用量、10 GB 存储，可用 Opus 5.5 等模型 (Models: Claude Opus 5.5, Claude Sonnet 5.5, Claude Haiku 5.5) | [Official](https://quick.aws.com/sn) | [Guide](https://mozhenzhen.com/wool/aws-quick-plus-new) · [.md](https://mozhenzhen.com/wool/aws-quick-plus-new.md) |
 | **Exa** | ≈¥66.78 | Yes / API | 首个团队在控制台完成新手引导送一次性 10 美元搜索和网页提取额度，不过期 | [Official](https://dashboard.exa.ai/) | [Guide](https://mozhenzhen.com/wool/exa-onboarding-new) · [.md](https://mozhenzhen.com/wool/exa-onboarding-new.md) |
+| **AWS** | ≈¥1334 | Yes / API | 新客户注册即送 100 美元，完成控制台探索任务最多再领 100 美元，免费计划 6 个月内可用于 Amazon Bedrock 等服务且不自动扣费 (Models: Kimi K3.1 Pro, DeepSeek v3.2, Claude 系列（部分）) | [Official](https://aws.amazon.com/cn/free/) | [Guide](https://mozhenzhen.com/wool/aws-free-tier-bedrock-new) · [.md](https://mozhenzhen.com/wool/aws-free-tier-bedrock-new.md) |
+| **Nebius** | ≈¥333.3 | Yes / API | 免费加入送 25 美元 AI Cloud 竞价 GPU 额度与 25 美元 Token Factory 推理额度，90 天有效，限学习测试 | [Official](https://dev.nebius.com/builders#form) | [Guide](https://mozhenzhen.com/wool/nebius-builder-program-new) · [.md](https://mozhenzhen.com/wool/nebius-builder-program-new.md) |
 
-## 4. Active Limited-Time Official Campaigns / 当前有效限时官方活动 (18)
+## 4. Active Limited-Time Official Campaigns / 当前有效限时官方活动 (17)
 
 | Vendor / 厂商 | Free Quota / 免费额度 | API? | Ends / 截止 | Key Models & Conditions / 说明与条件 | Official Link / 官方入口 | Step-by-Step Guide / 领取指引 |
 | --- | --- | --- | --- | --- | --- | --- |
 | **超算互联网** | ≈¥34 | Yes / API | 2026-12-31 | 活动期新用户领 1 亿词元，首期默认 GLM-5.3-Flash，按官方同模型资源包原价折算 (Models: GLM-5.3-Flash) | [Official](https://www.scnet.cn/home/subject/double11/index.html) | [Guide](https://mozhenzhen.com/wool/scnet-double11-new) · [.md](https://mozhenzhen.com/wool/scnet-double11-new.md) |
 | **微信小程序云开发** | 10 亿词元 | Web/App | 2026-12-31 | 成长计划第二期送 10 亿词元和 10 万张生图，申请成功后 6 个月内有效 (Models: Hy4, DeepSeek V4.1 Flash) | [Official](https://docs.cloudbase.net/ai/ai-inspire-plan) | [Guide](https://mozhenzhen.com/wool/wechat-cloudbase-2026) · [.md](https://mozhenzhen.com/wool/wechat-cloudbase-2026.md) |
 | **Devin** | 免费使用 | Web/App | 2026-12-05 | 桌面端和命令行可免费用 SWE-2 Flash，免费账号可选 Medium 档 (Models: SWE-2 Flash) | [Official](https://devin.ai/download) | [Guide](https://mozhenzhen.com/wool/devin-swe2-flash-20261205) · [.md](https://mozhenzhen.com/wool/devin-swe2-flash-20261205.md) |
-| **阶跃星辰** | 免费调用 | Yes / API | 2026-11-23 | 四个语音和音乐预览接口限免到 11 月 23 日中午，实名后建密钥即可调用 (Models: StepAudio 3 Realtime, StepAudio 3 Chat, StepAudio 3 Gen, StepAudio 3 Music) | [Official](https://platform.stepfun.com/interface-key) | [Guide](https://mozhenzhen.com/wool/stepaudio-preview-20261123) · [.md](https://mozhenzhen.com/wool/stepaudio-preview-20261123.md) |
 | **华为云码道** | 100积分/天 | Web/App | 2026-12-31 | 积分制个人体验版每天签到领 100 积分，当天用完，活动到 12 月 31 日 | [Official](https://codearts.huaweicloud.com) | [Guide](https://mozhenzhen.com/wool/huawei-codearts-checkin-2026) · [.md](https://mozhenzhen.com/wool/huawei-codearts-checkin-2026.md) |
 | **华为云码道创新赛** | 2000积分 | Web/App | 2026-12-05 | 报名后在码道手动领 2000 积分，报名后新开通再送 3000。12 月 5 日截止领取，12 月 26 日到期 | [Official](https://support.huaweicloud.com/offers-codeartsagent/codeartsagent_offers_0008.html) | [Guide](https://mozhenzhen.com/wool/huawei-codearts-skill-entry) · [.md](https://mozhenzhen.com/wool/huawei-codearts-skill-entry.md) |
-| **华为云码道创新赛** | 1000积分/天 | Web/App | 2026-12-05 | 报名后在码道每天手动签到领 1000 积分，12 月 5 日截止领取，各笔均于 12 月 26 日到期 | [Official](https://support.huaweicloud.com/offers-codeartsagent/codeartsagent_offers_0008.html) | [Guide](https://mozhenzhen.com/wool/huawei-codearts-skill-daily) · [.md](https://mozhenzhen.com/wool/huawei-codearts-skill-daily.md) |
+| **华为云码道创新赛** | 100积分/天 | Web/App | 2026-12-05 | 报名后在码道每天手动签到领 100 积分，12 月 5 日截止领取，各笔均于 12 月 26 日到期 | [Official](https://support.huaweicloud.com/offers-codeartsagent/codeartsagent_offers_0008.html) | [Guide](https://mozhenzhen.com/wool/huawei-codearts-skill-daily) · [.md](https://mozhenzhen.com/wool/huawei-codearts-skill-daily.md) |
 | **腾讯云 TokenHub** | ≈¥1.6 | Yes / API | 2026-12-31 | 语言和多模态理解模型各送 100 万词元，以 DeepSeek V4.1 Flash 闲时八成输入折算 (Models: DeepSeek V4.1 Flash, Hy4 Flash) | [Official](https://console.cloud.tencent.com/tokenhub) | [Guide](https://mozhenzhen.com/wool/tencent-tokenhub-new-2026) · [.md](https://mozhenzhen.com/wool/tencent-tokenhub-new-2026.md) |
 | **Devin** | 免费使用 | Web/App | 2026-12-01 | 自助套餐在桌面端和命令行免费使用 SWE-2，云端会话另算 (Models: SWE-2) | [Official](https://devin.ai/download) | [Guide](https://mozhenzhen.com/wool/devin-swe2-self-serve-20261130) · [.md](https://mozhenzhen.com/wool/devin-swe2-self-serve-20261130.md) |
 | **OpenCode** | 免费使用 | Web/App | 2026-11-29 | 在 OpenCode 选择 Hy4 flash Free，预计免费至 11 月 29 日，以官方公告为准 (Models: Hy4 Flash) | [Official](https://opencode.ai/download) | [Guide](https://mozhenzhen.com/wool/opencode-hy4-flash-202611) · [.md](https://mozhenzhen.com/wool/opencode-hy4-flash-202611.md) |
@@ -123,11 +123,11 @@
 | **WorkBuddy** | 每日免费额度 | Web/App | 2026-12-01 | 客户端选择 Hy4 Flash，可用每日免费额度，用完开始扣积分，活动到 11 月 30 日 (Models: Hy4 Flash) | [Official](https://www.workbuddy.cn/app) | [Guide](https://mozhenzhen.com/wool/workbuddy-hy4-flash-202611) · [.md](https://mozhenzhen.com/wool/workbuddy-hy4-flash-202611.md) |
 | **移动云 MobileClaw** | 最高 1 亿词元 | Web/App | 2027-01-01 | 每天登录领 100 万词元，每月领 1000 万，各笔 30 天有效。实名新用户另送 2500 万 (Models: DeepSeek V4.1 Flash, GLM-5.3-Flash) | [Official](https://ecloud.10086.cn/mobilecloud/act/2026-double11) | [Guide](https://mozhenzhen.com/wool/mobileclaw-double11-2026) · [.md](https://mozhenzhen.com/wool/mobileclaw-double11-2026.md) |
 | **移动云 MoMA** | 2500 万词元 | Yes / API | 2027-01-01 | 未领过本次额度的新老用户可领 2500 万词元，30 天有效，限部分自营模型且限流每分钟 3000 词元 | [Official](https://ecloud.10086.cn/portal/product/MaaS) | [Guide](https://mozhenzhen.com/wool/ecloud-moma-25m-tokens-2026) · [.md](https://mozhenzhen.com/wool/ecloud-moma-25m-tokens-2026.md) |
-| **Nous Portal** | 免费使用 | Web/App | 2026-11-24 | 0 美元免费档在 Nous Portal 或接入 Hermes Agent 可免费调用 Qwen4-Max，限免 5 天 (Models: Qwen4 Max) | [Official](https://portal.nousresearch.com/login) | [Guide](https://mozhenzhen.com/wool/nous-portal-qwen4-max-202611) · [.md](https://mozhenzhen.com/wool/nous-portal-qwen4-max-202611.md) |
 | **HeyGen** | 免费调用 | Yes / API | 2026-12-01 | 开发者平台建密钥可免费调用 Voice Turbo 语音合成与即时声音克隆，单次最多 5000 字符 (Models: HeyGen Voice Turbo) | [Official](https://platform.heygen.com/api-keys) | [Guide](https://mozhenzhen.com/wool/heygen-voice-turbo-202611) · [.md](https://mozhenzhen.com/wool/heygen-voice-turbo-202611.md) |
-| **fal** | ≈¥73.5 | Web/App | 2026-11-23 | 近 7 天新注册账号可免费生成 5 条 10 秒 480p 视频，支持文生、图生和参考图生视频，按官方 480p 估算价折算 (Models: Seedance 2.5) | [Official](https://fal.ai/seedance-2.5) | [Guide](https://mozhenzhen.com/wool/fal-seedance-25-weekend-202611) · [.md](https://mozhenzhen.com/wool/fal-seedance-25-weekend-202611.md) |
+| **Qoder 国内版** | 免费使用 | Web/App | 2026-12-01 | 新老个人号在 Qoder CN 和 IDE 里免积分调用匿名模型 HungerG，四档思考强度均不扣分，单账号设每日合理使用上限（次日刷新） (Models: HungerG) | [Official](https://qoder.cn/) | [Guide](https://mozhenzhen.com/wool/qoder-cn-hungerg-202611) · [.md](https://mozhenzhen.com/wool/qoder-cn-hungerg-202611.md) |
+| **Qoder 国际版** | 免费使用 | Web/App | 2026-12-01 | 新老个人号在 Qoder 和 IDE 里免积分调用匿名模型 HungerG，四档思考强度均不扣分，单账号设每日合理使用上限（次日刷新） (Models: HungerG) | [Official](https://qoder.com/) | [Guide](https://mozhenzhen.com/wool/qoder-hungerg-202611) · [.md](https://mozhenzhen.com/wool/qoder-hungerg-202611.md) |
 
-## 5. Paid-Member Extra Perks / 付费会员隐藏加赠福利 (22)
+## 5. Paid-Member Extra Perks / 付费会员隐藏加赠福利 (35)
 
 | Vendor / 厂商 | Extra Perk / 额外福利 | Eligibility / 领取条件 | Details / 详情 |
 | --- | --- | --- | --- |
@@ -137,6 +137,19 @@
 | **ElevenLabs** | 年付首年 4.5 折 | 仅限首年，到期按原价自动续费；按 UTC 11 月 16 日零点账号记录判资格，不含 API 按量扣费和预付积分。 | Creator 年付首年 99 美元、Pro 首年 445.50 美元，Pro 月付转年付 495 美元。 |
 | **BoltAI** | 买断 6 折（省至 $160） | 一次性买断永久授权，Pro/Pro+ 含 1 年更新与云同步，期满可选续费；价格不含税费，支持 30 天退款。 | 优惠码 BFCM2026，Pro 买断 59 美元、Pro+ 119 美元、终身更新版 239 美元。 |
 | **Adobe Creative Cloud** | 首年 4.3 折（$29.99/月） | 限美区首次订阅用户官网直购，需 12 个月订阅承诺，首年满后按 69.99 美元/月原价自动续费。 | 美区个人首订 Creative Cloud Pro 首年 29.99 美元/月，含 20+ 软件与 Firefly AI。 |
+| **PixVerse** | 年付最高省 59% | 首年年费须一次付清，次年恢复常规年费续订；会员模型优惠仅限 Pro 及以上对应档位，免费号与标准版不享。 | 标准版首年86.4美元、至尊版1251.6美元，积分包加赠至多50%；Pro及以上另享多款模型限免或低至1折至12月8日。 |
+| **Claude** | 送 1 次完整用量重置 | 面向 Claude Pro、Max、Ultra 和 Team 付费订阅用户，无需额外付费；未用前降级或取消订阅会失效。 | 覆盖全部模型与限额（含 Claude Code），在网页、桌面或手机端「设置 → 用量」手动点击使用，不改变原有周重置时间。 |
+| **ChatGPT Business** | 全席位 2 倍用量 | 标准席位月付 25 美元/人（年付 20 美元/人），高级席位月付 125 美元/人（年付 100 美元/人），最少 1 个付费席位起开；双倍用量享至 12 月 31 日，老工作空间不参与本轮。 | 11 月 30 日前新建 ChatGPT Business 工作空间，标准和高级席位内置用量翻倍，持续至 12 月 31 日。 |
+| **Claude Duet** | 每周送 500 美元额度 | 限 11 月 23 日前已有 Claude Duet 与美区 Pro、Max、Ultra 或 Team 计划并获选的账号，免领取分批发放。 | 累计上限 3000 美元，随每周周期重置且不滚存，在网页「设置 → 用量」查看；不含 Claude Code 会话、Cowork 与 Fable。 |
+| **Manus** | 年付最高省 33% | 仅覆盖 Pro $100 档及 $200 以上 Max 档，Pro $20–$80 档与团队版不参与；仅首月或首年享优惠，到期按常规价自动续费。 | Pro $100档（2万积分/月）首年$900、首月$90；Max $200档（4万积分/月）首年$1,600、首月$160，其余更高Max档同享首期八折。 |
+| **Suno** | 年付首年折上七折 | 仅覆盖年付 Pro、Premier 和 Platinum 档首年，月付和单独积分包不参加，结账另算税费；到期按常规年付价自动续费。 | Pro 首年 $67.20（省 $28.80）、Premier 首年 $201.60（省 $86.40）、Platinum 首年 $840（省 $360）。 |
+| **ChatGPT Business** | 1 次重置 + 免费 Fast | 限现有或新开 ChatGPT Business（原 Team）付费团队工作空间，无需额外付费；个人 Plus 与 Pro 订阅不含在内。 | 所有 ChatGPT Business 团队获赠 1 次手动存档重置，并在 12 月 31 日前免额外费用使用 Fast 模式。 |
+| **Grok** | 付 1 个月送 1 个月 | 仅限 Premium 月付新订阅，Plus、Super、Ultra 及年付不参加；标价不含税费，Cursor 第三方模型另算；到期按每月 30 美元自动续费，取消须至少提前 24 小时。 | Premium 月付档黑五活动，30 美元用 2 个月，含 Grok 最新模型、Grok Bot、Grok API、Cursor 与 X 会员权益。 |
+| **Devin** | 免费用两周 | 需已订 Devin Pro（20 美元/月）、Max（200 美元/月）或 Teams（80 美元/月）；不含免费账号、云端会话和 Ultrafast。 | Pro、Max、Teams 自助套餐在桌面端和 CLI 免费用 SWE-2.1，12 月 9 日起至明年 1 月 30 日享优惠价。 |
+| **Krea** | 年付立省 70% | 订阅折扣需按年付或月付开通对应档位，模型用量折扣仅限年付 Pro 和 Max；付款前在结账页核对实付金额。 | 年付 Basic/Pro/Max 分别省 40%/50%/70%，Max 折合 28 美元/月起，叠加 Seedance 2.5 省 75%。 |
+| **Tripo** | 订阅低至 3.5 折+赠 2 个月积分 | 仅限 Tripo 国际站活动页订阅方案，国内站未同步上线；订阅折扣截至 12 月 4 日，不可与渠道折扣码叠加。 | 国际站黑五订阅至高立省 65% 并加赠 2 个月奖励积分，另有 3D 盲盒任务抽奖到 12 月 20 日。 |
+| **Viggle** | 年付首年低至 4 折 | 仅限年付首年，月付不参加；Pro 网页与 App 均可买，Pro Plus 与 Max 仅限网页端；次年按原年付价续费，月度积分不结转。 | Pro 首年 $59.88、Pro Plus 首年 $119.94、Max 首年 $383.95，支持支付宝和银行卡。 |
+| **Thinking Machines Tinker** | 免费训练与采样 | 预付账户须绑定信用卡并充入非零正余额（防滥用）；指定免费模型 ID 不扣余额，误用标准付费 ID 或超出免费存储上限切付费存储时按官网标准价计费。 | 用 Inkling-2-Mini:peft:65536:free 免费跑 64K LoRA 训练与采样，训完权重可导出本地用 |
 | **讯飞 AStudio** | 登录每天多 100 或 300 积分 | 已购会员可领 · 标准版连续包月 ¥16.8/月，高级版 ¥56.8/月。 | 体验版、标准版、高级版每天登录依次得 100、200、400 积分，每笔可用 31 天。 |
 | **百度秒哒** | 高级版每天都能领 100 秒点 | 已购高级版可领 · 连续包月 ¥65/月，单月购买 ¥70。 | 免费版和标准版每月最多领 7 天。高级版每天登录可领，当天只发一次。 |
 | **商汤小浣熊** | 每天自动多发 200 积分 | 个人升级版自动发放 · 官网标注的常规价为 ¥48/月。 | 免费版每天自动发 300，升级版发 500。当天登录可把当日积分留 7 天。 |
@@ -146,7 +159,7 @@
 | **千问 Token Plan** | Lite 首月省 ¥19.5 | 首月 ¥19.5 · 常规价 ¥39/月。 | 从未购买个人版的新客可用首月优惠，Lite 档每月有 20,000 积分。 |
 | **千问办公** | 标准版首月 ¥29.9 | 仅限符合资格的新客 · 连续包月次月按常规包月价续费，官网对照表显示约 ¥78。 | 个人标准版原价 ¥98/月，首月付 ¥29.9，可用 2,000 通用积分。年付不参加。 |
 | **阿里云百炼 Coding Plan** | Pro 首月 ¥39.90 | 新客限量 · 首月 ¥39.90，之后 ¥200/月。 | 首次订 Pro 可抢首月优惠，每天北京时间 09:30 补名额，先到先得。 |
-| **火山方舟** | DeepSeek V4.1 少扣额度 | 已有个人 Coding Plan 自动生效，享优惠无需额外付款。 | 个人 Coding Plan 用 DeepSeek V4.1 Flash 时，可用量与 Agent Plan 3.5 折抵扣活动期间相当。 |
+| **火山方舟** | DeepSeek V4.1 少扣额度 | 已有个人 Coding Plan 自动生效，享优惠无需额外付款。 | 个人 Coding Plan 用 DeepSeek V4.1 Flash 时，可用量与 Agent Plan 3 折抵扣活动期间相当。 |
 | **ChatGPT Pro** | 每月最多送 500 美元用量 | 100、200、500 美元月付档，每个完整账期分别送等额的 API 调用额度。API 额度可直接用。 | 合资格账号付费满 7 天后关联自己的 API 组织。首月按剩余天数折算，随你的订阅账期结束失效。 |
 | **Google AI Pro / Ultra** | 每月送 10–100 美元云额度 | 需 Pro 或 Ultra。美区 Pro 19.99 美元/月起。用赠额调 Gemini API 时，预付费账户需先充值并保持余额。 | 同一 Google 账号在 AI Studio 领。Pro 送 10 美元，Ultra 5 倍、20 倍档分别送 40、100 美元。 |
 | **Claude Duet** | 送 1–3 次完整用量重置 | 限获邀参加研究预览的美区 Pro、Max 或 Ultra 会员，无需额外付费。 | Pro 获赠 3 次，Max 和 Ultra 各 1 次。网页或桌面端「设置 → 用量」手动用，用前再确认。 |
@@ -156,17 +169,15 @@
 
 ## 6. Community Free Relays (Personal Testing Only) / 社区公益站精选（仅限个人测试）
 
-> **Privacy Notice / 隐私提醒**: Community free relays are operated by independent contributors; some may log prompts or route through shared quotas. **Never send proprietary code, customer data, or production traffic through community relays.** Full daily-checked list of all 55 active sites: <https://mozhenzhen.com/free-relays>.
+> **Privacy Notice / 隐私提醒**: Community free relays are operated by independent contributors; some may log prompts or route through shared quotas. **Never send proprietary code, customer data, or production traffic through community relays.** Full daily-checked list of all 58 active sites: <https://mozhenzhen.com/free-relays>.
 
 | Site / 站点 | Type / 类型 | Access / 门槛 | Summary / 说明 | Live Status / 实时页 |
 | --- | --- | --- | --- | --- |
-| **全新公益站** | text | 用 Linux.do 账号登录 | 个人搭建的免费 API 站，仅支持 Linux.do 登录，签到送 10 美元额度。 | [Check](https://mozhenzhen.com/free-relays/92) |
-| **星驰公益** | text | — | 重新开放注册，提供GPT-6系列模型，凭兑换码充值额度使用 | [Check](https://mozhenzhen.com/free-relays/83) |
 | **l0veyou** | both | 用 Linux.do 账号登录 / 部分高级 API 接口后续需消耗社区积分 | 主打永久免费不限次数的 GPT 生图，并提供文本模型 API | [Check](https://mozhenzhen.com/free-relays/19) |
+| **星驰公益** | text | — | 重新开放注册，提供GPT-6系列模型，凭兑换码或签到获取额度 | [Check](https://mozhenzhen.com/free-relays/83) |
+| **esapi** | text | 邮箱注册验证 | 纯免费站点，无充值接口，注册即可直接调用 | [Check](https://mozhenzhen.com/free-relays/95) |
 | **img.clawhud.com** | image | 无需登录即可使用 | 免费在线生图网站，支持文生图、图生图、局部修改与去背景 | [Check](https://mozhenzhen.com/free-relays/90) |
 | **apikey.casa** | text | 用 Linux.do 账号登录 | 提供公开接口额度供免费测试，数据会用于模型训练 | [Check](https://mozhenzhen.com/free-relays/87) |
-| **Aether API** | text | 支持 LINUX DO Connect 登录 / 支持邮箱注册 | 聚合多个免费平台反代接口的公益站，支持数据脱敏网关 | [Check](https://mozhenzhen.com/free-relays/15) |
-| **哔哩公益站** | text | 使用 LINUX DO 账号登录 | 对接 DeepSeek 官方接口，按社区等级兑换额度 | [Check](https://mozhenzhen.com/free-relays/80) |
 | **API 额度共享平台** | text | 用 Linux.do 账号登录 | 接入 Linux.do 的 DeepSeek V4 共享接口，支持 LDC 兑换额度与 MCP 调用 | [Check](https://mozhenzhen.com/free-relays/33) |
 | **CoArena** | text | 使用邮箱或 Google 账号注册 | 每天自动送 5 美元额度，每天 8 点重置不累计，但会收集对话数据 | [Check](https://mozhenzhen.com/free-relays/85) |
 | **Token Factory Ultrafast** | text | 排队即可使用 | 主打极速生成的体验站，排队后每次可免费使用 10 分钟并支持续期。 | [Check](https://mozhenzhen.com/free-relays/65) |
@@ -185,3 +196,14 @@
 | **Chat Share** | both | 无需注册，直接使用 | 免注册直接用的网页版反代共享站，支持生图与文件下载 | [Check](https://mozhenzhen.com/free-relays/64) |
 | **Techmob** | text | 使用 LINUX DO 账号登录 | 接入 LINUX DO 登录，提供 MiniMax、DeepSeek 等 Flash 模型接口。 | [Check](https://mozhenzhen.com/free-relays/56) |
 | **魔方公益站** | text | 用 LINUX DO 账号登录 | 通过 LINUX DO 登录，每天签到领额度，聚合了多种大模型 | [Check](https://mozhenzhen.com/free-relays/13) |
+| **感恩公益站** | text | 使用 LINUX DO 账号登录 / 屏蔽了中国大陆及港澳台地区的 IP 访问 | 主打自部署 DeepSeek 与号池 Grok，额度主要依赖 CDK 兑换。 | [Check](https://mozhenzhen.com/free-relays/46) |
+| **SuDao 公益站** | text | 已接入 LINUX DO Connect 登录 / 站长后续增加了注册限制 | 主打 Claude Opus 系列模型测试，每日签到赠送额度 | [Check](https://mozhenzhen.com/free-relays/30) |
+
+---
+
+### How to Query Live Data / 如何查询最新实时数据
+
+- Live Official Free Quotas Tracker: <https://mozhenzhen.com/wool>
+- Live Community Free Relays Status: <https://mozhenzhen.com/free-relays>
+- AI Assistant (Skill + 9 Read-Only MCP Tools, no login / no API key): <https://mozhenzhen.com/ai-assistant>
+- Universal Agent Skill (`SKILL.md`): <https://mozhenzhen.com/SKILL.md> · GitHub: <https://github.com/mozhenzhen/mozhenzhen-skill>

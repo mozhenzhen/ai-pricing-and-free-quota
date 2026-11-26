@@ -181,7 +181,8 @@ def build_coding_plans_md(plans_data: dict[str, Any], now_str: str) -> str:
         "",
         f"- Web Calculator (supports 0% / 50% / 95% / 99% cache toggle, night-time pricing, multi-model filter): <{BASE_URL}/plans>",
         f"- All Plans Overview: <{BASE_URL}/plans/all>",
-        f"- Read-Only MCP for AI Coding Agents: <{BASE_URL}/mcp>",
+        f"- AI Assistant (Skill + 9 Read-Only MCP Tools, no login / no API key): <{BASE_URL}/ai-assistant>",
+        f"- Universal Agent Skill (`SKILL.md`): <{BASE_URL}/SKILL.md> · GitHub: <https://github.com/mozhenzhen/mozhenzhen-skill>",
     ]
     return "\n".join(lines) + "\n"
 
@@ -281,6 +282,18 @@ def build_free_quotas_md(wool: dict[str, Any], relays: dict[str, Any], now: dt.d
         lines.append(
             f"| **{esc(r.get('name'))}** | {esc(r.get('use_kind') or 'text')} | {esc(access)} | {esc(r.get('summary') or '')} | [Check]({BASE_URL}/free-relays/{r['id']}) |"
         )
+
+    lines.extend([
+        "",
+        "---",
+        "",
+        "### How to Query Live Data / 如何查询最新实时数据",
+        "",
+        f"- Live Official Free Quotas Tracker: <{BASE_URL}/wool>",
+        f"- Live Community Free Relays Status: <{BASE_URL}/free-relays>",
+        f"- AI Assistant (Skill + 9 Read-Only MCP Tools, no login / no API key): <{BASE_URL}/ai-assistant>",
+        f"- Universal Agent Skill (`SKILL.md`): <{BASE_URL}/SKILL.md> · GitHub: <https://github.com/mozhenzhen/mozhenzhen-skill>",
+    ])
 
     return "\n".join(lines) + "\n"
 
